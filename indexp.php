@@ -1,10 +1,9 @@
-
 <?php
 
 //function connect(){
 //    $host = "localhost";
 //    $database = "instituto1";
-//    $username = "root";
+//    $username = "user";  
 //    $password = "vendetta";
 //
 //    $con= mysql_connect($host,$database,$username,$password);
